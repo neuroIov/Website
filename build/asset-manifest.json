@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.998d94b7.css",
+    "main.js": "/static/js/main.7b79ee5f.js",
+    "static/js/453.acf16d0b.chunk.js": "/static/js/453.acf16d0b.chunk.js",
+    "static/media/video.mp4": "/static/media/video.7ee9152de2525fc862e7.mp4",
+    "static/media/GPU-ABOUT.mp4": "/static/media/GPU-ABOUT.ecedde5450fa5bbda564.mp4",
+    "static/media/GPU.mp4": "/static/media/GPU.1d4b771055c369aaf914.mp4",
+    "static/media/Neurolov.mp4": "/static/media/Neurolov.a772af4e1ce9dea1046e.mp4",
+    "static/media/join.mp4": "/static/media/join.9190c6f9e31799433416.mp4",
+    "static/media/Neuro2.png": "/static/media/Neuro2.44f8b31df4b90503d12c.png",
+    "static/media/about-bottom.png": "/static/media/about-bottom.8907badf6ffac2ac0619.png",
+    "static/media/mission.png": "/static/media/mission.5c253b5aa592e2c62cf9.png",
+    "static/media/logo.png": "/static/media/logo.c1aa4a881055358b965c.png",
+    "static/media/about-line.png": "/static/media/about-line.6040f8378b5c04d1e6dd.png",
+    "static/media/why.png": "/static/media/why.52d36d50c0225fc33bb0.png",
+    "static/media/about-bg.png": "/static/media/about-bg.5d8546c4103ebca7e259.png",
+    "static/media/about-us.png": "/static/media/about-us.fa281d524e440f14bb12.png",
+    "static/media/about-us-2.png": "/static/media/about-us-2.91a8d9b4c015cdf8f76f.png",
+    "static/media/twitter.png": "/static/media/twitter.98f69980d2df3e485fff.png",
+    "static/media/discord.png": "/static/media/discord.3216a839e02833df6ccd.png",
+    "static/media/Bottom-02.svg": "/static/media/Bottom-02.184434886ac348b5a2718a3d094b7dff.svg",
+    "static/media/top-01.svg": "/static/media/top-01.0a752eb79011cdc3c06533f9be2be91c.svg",
+    "index.html": "/index.html",
+    "main.998d94b7.css.map": "/static/css/main.998d94b7.css.map",
+    "main.7b79ee5f.js.map": "/static/js/main.7b79ee5f.js.map",
+    "453.acf16d0b.chunk.js.map": "/static/js/453.acf16d0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.998d94b7.css",
+    "static/js/main.7b79ee5f.js"
+  ]
+}
